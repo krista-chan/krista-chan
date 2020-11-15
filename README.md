@@ -13,9 +13,9 @@
 ~~you're on my github page uhhh~~  
 > A game engine with R A Y S  
 > A few discord bots of varying sizes  
-> hello world in x86 assemb-
-> A discord bot list
-> A geometry dash private server in node
+> hello world in x86 assemb-  
+> A discord bot list  
+> A geometry dash private server in node  
 
 ## Contacts and links  
 
