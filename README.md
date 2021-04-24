@@ -1,4 +1,4 @@
-# alebot-dev
+# krista-chan
 
 ## Development skills (My languages)
 
