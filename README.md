@@ -6,7 +6,10 @@
 > C++  
 > HTML/CSS/JS/MD  
 > x86 assembly  
-> NodeJS
+> NodeJS  
+> Lot of rust  
+> So much rust  
+> No seriously, rust  
 
 ## What I have done
 
@@ -16,10 +19,13 @@
 > hello world in x86 assemb-  
 > A discord bot list  
 > A geometry dash private server in node  
+> An OS in rust  
+> A programming language in rust  
+> A cli html scraper in rust  
 
 ## Contacts and links  
 
-[Discord](Dice#2213) | [Email](qbotdev84@gmail.com) | [Bot List](https://cosmiclist.com/) |  [Github](You're-so-funny)
+[Discord]() - Dice#2213 | [Email]() - qbotdev84@gmail.com | [website](https://krista-chan.github.io) |  [Github](You're-so-funny)
 
 ---
 
