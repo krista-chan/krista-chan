@@ -34,3 +34,9 @@
 ### Yeah so that's basically me  
 
 Make sure to ~~like~~ star, ~~subscribe~~ watch and ~~comment~~ pull to your hearts content
+
+---
+
+## Visits to this README
+
+<img src="https://count.getloli.com/get/@:krista-chan?theme=rule34" alt="Counter goes here" />
